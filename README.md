@@ -113,9 +113,11 @@ This repository contains steps on how i set up a basic home lab running Active D
 <br/>
 
 <h2>Run Powershell to create users in Active Directory</h2>
-<br><br/>
+
+<br>[Link To PowerShell Instructions](https://github.com/lwaltoniv23/Powershell-Users-Script)<br/>
 <h2>Create and install Windows 10 on a new virtual machine named "Client1"</h2>
-<br><br/>
+
+<br>[Link To Create Virtual Machine](https://github.com/lwaltoniv23/Create-Virtual-Machine)<br/>
 
 </p>
 

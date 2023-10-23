@@ -18,7 +18,7 @@ This repository contains steps on how i set up a basic home lab running Active D
 
 <p align="center">
 Diagram: <br/>
- <![active_directory_diagram](https://github.com/lwaltoniv23/ActiveDirectoryLab/assets/28788531/c5c5fd83-7bdb-4c02-b339-ec3b2076be4d)>
+ <img src="![active_directory_diagram](https://github.com/lwaltoniv23/ActiveDirectoryLab/assets/28788531/c5c5fd83-7bdb-4c02-b339-ec3b2076be4d)"/>
  
 <img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />

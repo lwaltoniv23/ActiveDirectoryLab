@@ -15,6 +15,7 @@ This repository contains steps on how i set up a basic home lab running Active D
 
 <h2>Diagram:</h2>
 
+
 <p align="center">
 <br/>
 <img src="https://imgur.com/5mHWNV0.png" height="80%" width="80%"/>
@@ -46,7 +47,7 @@ This repository contains steps on how i set up a basic home lab running Active D
 <br/>
 
 
-<h2>Configure the virtual machine settings by giving it two netwoek adapters: one for connecting to the internet and the other for the internal private network.</h2>
+<h2>Configure the virtual machine settings by giving it two network adapters: one for connecting to the internet and the other for the internal private network.</h2>
 
 <p align="center">
 <br/>
